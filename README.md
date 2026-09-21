@@ -30,7 +30,7 @@ This web application allows users to enter text or a URL and generate a QR code 
 
 🌐 Live Demo
 
-View Live Demo
+(https://muhammadahmad152.github.io/qr-code-generator/)
 
 👨‍💻 Author
 
